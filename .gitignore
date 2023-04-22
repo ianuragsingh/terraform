@@ -1,5 +1,25 @@
 
-iam/.DS_Store
+### Terraform ###
+
+# Local .terraform directories
+**/.terraform/*
+
+# Local Terragrunt Cache
+**/.terragrunt-cache/*
+
+# Terraform lockfile
+.terraform.lock.hcl
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Crash log files
+crash.log
+crash.*.log
+
 .DS_Store
-iam/examples/.terraform/providers/*
-iam/examples/.terraform.lock.hcl
+**/.DS_Store
+
+
