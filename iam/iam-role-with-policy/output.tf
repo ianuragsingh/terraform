@@ -1,7 +1,7 @@
-output "role_name" {
+output "name" {
   value = aws_iam_role.role.name
 }
 
-output "role_arn" {
+output "arn" {
   value = aws_iam_role.role.arn
 }

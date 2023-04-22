@@ -2,3 +2,4 @@
 iam/.DS_Store
 .DS_Store
 iam/examples/.terraform/providers/*
+iam/examples/.terraform.lock.hcl
