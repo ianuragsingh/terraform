@@ -1,3 +1,4 @@
 
 iam/.DS_Store
 .DS_Store
+iam/examples/.terraform/providers/*
